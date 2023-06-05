@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @eeealesha<br>I’m interested in Data Analtytics, Data Science, Data Engeenering and Web-Developement<br>I’m currently creating Python Textbook<br>I’m looking to collaborate on Data Analytics projects<br>How to reach me instagram: @eeealesha
+Hi, I’m @eeealesha<br>I’m interested in Data Analtytics, Data Science, Data Engeenering and Web-Developement<br>I’m currently creating Python Textbook<br>I’m looking to collaborate on Data Analytics projects<br>How to reach me: https://t.me/onlyanalyst
 
 
 # 💻 Tech Stack:
