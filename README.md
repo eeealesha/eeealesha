@@ -24,3 +24,21 @@ Hi, I’m @eeealesha<br>I’m interested in Data Analtytics, Data Science, Data 
 eeealesha/eeealesha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Хабр 
+- Собственные
+https://habr.com/ru/articles/741876/
+- Подборки
+https://habr.com/ru/articles/869116/
+- Комментарии
+https://habr.com/ru/companies/habr_career/articles/868400/
+https://habr.com/ru/companies/habr_career/articles/862164/
+https://habr.com/ru/companies/habr_career/articles/846530/
+https://habr.com/ru/companies/habr_career/articles/1033170/
+https://habr.com/ru/companies/habr_career/articles/1017412/
+https://habr.com/ru/companies/habr_career/articles/1011286/
+https://habr.com/ru/companies/habr_career/articles/1000368/
+- Мероприятия
+https://habr.com/ru/specials/852710/
+https://habr.com/ru/companies/habr_career/news/833370/
+- Конференции
+https://habr.com/ru/news/967886/
