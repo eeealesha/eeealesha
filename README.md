@@ -49,6 +49,7 @@ Alongside my engineering work, I'm an active educator and community builder: I'v
 - 🎤 **Invited expert commentary** in Habr Career publications — [1](https://habr.com/ru/companies/habr_career/articles/868400/) · [2](https://habr.com/ru/companies/habr_career/articles/862164/) · [3](https://habr.com/ru/companies/habr_career/articles/846530/) · [4](https://habr.com/ru/companies/habr_career/articles/1033170/) · [5](https://habr.com/ru/companies/habr_career/articles/1017412/) · [6](https://habr.com/ru/companies/habr_career/articles/1011286/) · [7](https://habr.com/ru/companies/habr_career/articles/1000368/)
 - 🗓️ **Community events & special projects** — [Special project](https://habr.com/ru/specials/852710/) · [Event](https://habr.com/ru/companies/habr_career/news/833370/)
 - 🏛️ **Conferences** — [Conference feature](https://habr.com/ru/news/967886/)
+- https://vkvideo.ru/video-20629724_456241892?t=16s
 
 **Open source**
 - [**SyntheticDataGenerator**](https://github.com/eeealesha/SyntheticDataGenerator) — a Python library that helps data analysts generate synthetic datasets (⭐ 5 · 🍴 4).
