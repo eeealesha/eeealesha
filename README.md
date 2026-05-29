@@ -47,7 +47,7 @@ Alongside my engineering work, I'm an active educator and community builder: I'v
 - 📝 **Authored articles** — [Article 1](https://habr.com/ru/articles/741876/) · [Article 2](https://habr.com/ru/articles/763346/)
 - ⭐ **Featured in editorial collections** — [Collection](https://habr.com/ru/articles/869116/)
 - 🎤 **Invited expert commentary** in Habr Career publications — [1](https://habr.com/ru/companies/habr_career/articles/868400/) · [2](https://habr.com/ru/companies/habr_career/articles/862164/) · [3](https://habr.com/ru/companies/habr_career/articles/846530/) · [4](https://habr.com/ru/companies/habr_career/articles/1033170/) · [5](https://habr.com/ru/companies/habr_career/articles/1017412/) · [6](https://habr.com/ru/companies/habr_career/articles/1011286/) · [7](https://habr.com/ru/companies/habr_career/articles/1000368/)  ·
-  [8](https://habr.com/ru/companies/habr_career/articles/1041180/)
+  [8](https://habr.com/ru/companies/habr_career/articles/1041180/) · [9](https://habr.com/ru/companies/habr_career/articles/1038088/)
 - 🗓️ **Community events & special projects** — [Special project](https://habr.com/ru/specials/852710/) · [Event](https://habr.com/ru/companies/habr_career/news/833370/)
 - 🏛️ **Conferences** — [Conference feature](https://habr.com/ru/news/967886/)
 
