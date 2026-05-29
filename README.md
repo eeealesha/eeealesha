@@ -46,7 +46,8 @@ Alongside my engineering work, I'm an active educator and community builder: I'v
 **Media, publications & speaking** *(on Habr — one of the largest tech communities in the region)*
 - 📝 **Authored articles** — [Article 1](https://habr.com/ru/articles/741876/) · [Article 2](https://habr.com/ru/articles/763346/)
 - ⭐ **Featured in editorial collections** — [Collection](https://habr.com/ru/articles/869116/)
-- 🎤 **Invited expert commentary** in Habr Career publications — [1](https://habr.com/ru/companies/habr_career/articles/868400/) · [2](https://habr.com/ru/companies/habr_career/articles/862164/) · [3](https://habr.com/ru/companies/habr_career/articles/846530/) · [4](https://habr.com/ru/companies/habr_career/articles/1033170/) · [5](https://habr.com/ru/companies/habr_career/articles/1017412/) · [6](https://habr.com/ru/companies/habr_career/articles/1011286/) · [7](https://habr.com/ru/companies/habr_career/articles/1000368/)
+- 🎤 **Invited expert commentary** in Habr Career publications — [1](https://habr.com/ru/companies/habr_career/articles/868400/) · [2](https://habr.com/ru/companies/habr_career/articles/862164/) · [3](https://habr.com/ru/companies/habr_career/articles/846530/) · [4](https://habr.com/ru/companies/habr_career/articles/1033170/) · [5](https://habr.com/ru/companies/habr_career/articles/1017412/) · [6](https://habr.com/ru/companies/habr_career/articles/1011286/) · [7](https://habr.com/ru/companies/habr_career/articles/1000368/)  ·
+  [8](https://habr.com/ru/companies/habr_career/articles/1041180/)
 - 🗓️ **Community events & special projects** — [Special project](https://habr.com/ru/specials/852710/) · [Event](https://habr.com/ru/companies/habr_career/news/833370/)
 - 🏛️ **Conferences** — [Conference feature](https://habr.com/ru/news/967886/)
 
@@ -104,4 +105,8 @@ Alongside my engineering work, I'm an active educator and community builder: I'v
 <p align="center"><i>Open to opportunities and collaborations in data analytics, data science, and data engineering.</i></p>
 
 
-THings to add: - https://vkvideo.ru/video-20629724_456241892?t=16s, Код Контента, Ссылка на сертификаты по 21/Хабру
+THings to add:
+- https://vkvideo.ru/video-20629724_456241892?t=16s,
+- Код Контента,
+- Ссылка на сертификаты по 21/Хабру
+https://habr.com/ru/companies/habr_career/articles/1041180/
