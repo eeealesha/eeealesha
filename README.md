@@ -107,6 +107,7 @@ Alongside my engineering work, I'm an active educator and community builder: I'v
 
 THings to add:
 - https://vkvideo.ru/video-20629724_456241892?t=16s,
+- https://www.youtube.com/live/AHfZ-jKG5Cs
 - Код Контента,
 - Ссылка на сертификаты по 21/Хабру
 https://habr.com/ru/companies/habr_career/articles/1041180/
